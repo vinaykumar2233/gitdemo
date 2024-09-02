@@ -4,6 +4,13 @@ resource "azurerm_resource_group" "example" {
 }
 
 resource "azurerm_resource_group" "example" {
+  name     = "yoesh"
+  location = "Westus"
+}
+
+
+
+resource "azurerm_resource_group" "example" {
   name     = "vinay"
   location = "Westus"
 }
