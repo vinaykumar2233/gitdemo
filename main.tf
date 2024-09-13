@@ -4,7 +4,7 @@ resource "azurerm_resource_group" "example" {
 }
 
 resource "azurerm_resource_group" "example" {
-  name     = "yoesh"
+  name     = "Amit"
   location = "Westus"
 }
 
